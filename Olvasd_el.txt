@@ -1,0 +1,15 @@
+Session valamiért nem müködik, így most fixen az 1-es ids felhasznalo lehet szerkeszteni a profil szerkesztőnél!
+Login ugyan ezért nem müködik!
+
+Regisztrációnal valamit benézek, az sem mükszik! 3db "égettet" felhasznalo van az adatbazisba, hogy lehessen valamit látni.
+
+Profil szerkesztönél a jelszo megváltoztattás müködik (ha jó a régi jelszó, illetve minimum 8 karakter az uj jelszo), ott csak nincs visszajelzés!
+
+Publikus profil id-t néz, ha létezik akkor kiolvassa az értékeke.
+
+
+
+
+
+Mysql.sql-ben van az adatbazishoz a sql kod!
+
